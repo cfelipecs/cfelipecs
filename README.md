@@ -1,7 +1,7 @@
 <div>
   <a href="htpps://beacons.ai/cfelipecs">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=cfelipecs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfelipecs&layout=compact&theme=gotham"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=cfelipecs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfelipecs&layout=compact&theme=gotham"/>
 </div>
   
   ##
